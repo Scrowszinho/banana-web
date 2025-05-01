@@ -1,0 +1,8 @@
+{
+  "name": "@banana-dev/banana-dev",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "banana-dev"
+  }
+}
