@@ -15,6 +15,11 @@
     "noUnusedLocals": true,
     "skipLibCheck": true,
     "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./apps/banana-dev/src",
+    "paths": {
+      "@assets/*": ["/assets/*"],
+    },
     "target": "es2022",
     "customConditions": ["development"]
   }
